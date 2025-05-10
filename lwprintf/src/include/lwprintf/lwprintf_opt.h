@@ -166,7 +166,7 @@ extern "C" {
  * It adds functions for default instance: `lwprintf`, `lwsnprintf` and others
  */
 #ifndef LWPRINTF_CFG_ENABLE_SHORTNAMES
-#define LWPRINTF_CFG_ENABLE_SHORTNAMES 1
+#define LWPRINTF_CFG_ENABLE_SHORTNAMES 0
 #endif /* LWPRINTF_CFG_ENABLE_SHORTNAMES */
 
 /**
