@@ -4,6 +4,7 @@
 
 - Rework library CMake with removed INTERFACE type and placed with STATIC
 - Rename `struct lwprintf` to `struct lwprintf_s` to not interfere with short names
+- Fix the platformio library package description
 
 ## v1.0.6
 

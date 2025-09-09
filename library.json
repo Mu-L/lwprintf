@@ -31,6 +31,8 @@
         ]
     },
     "build": {
-        "includeDir": "lwprintf/src/include"
+        "includeDir": "lwprintf/src/include",
+        "srcDir": ".",
+        "srcFilter": "+<lwprintf>"
     }
 }
