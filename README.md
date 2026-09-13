@@ -1,5 +1,8 @@
 # Lightweight printf stdio manager
 
+LwPRINTF is a lightweight stdio manager optimized for embedded systems.
+It includes implementation of standard output functions such as `printf`, `vprintf`, `snprintf`, `sprintf` and `vsnprintf` in an embedded-systems optimized way.
+
 [Open documentation](https://docs.majerle.eu/projects/lwprintf/)
 
 ## Features

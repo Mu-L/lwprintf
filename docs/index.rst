@@ -3,7 +3,7 @@ LwPRINTF |version| documentation
 
 Welcome to the documentation for version |version|.
 
-LwPRINTF is lightweight stdio manager optimized for embedded systems.
+LwPRINTF is a lightweight stdio manager optimized for embedded systems.
 It includes implementation of standard output functions such as ``printf``, ``vprintf``, ``snprintf``, ``sprintf`` and ``vsnprintf`` in an embedded-systems optimized way.
 
 .. image:: static/images/logo.svg
